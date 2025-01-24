@@ -1,0 +1,68 @@
+.bodyBackground{
+    background-image: url('../source/images/MainBackground.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: "Merriweather", serif;
+    -webkit-text-fill-color: #ffffff;
+}
+
+.slideImage{
+    opacity: 0.2;
+}
+
+.slideCarrousel{
+    width: 65%;
+}
+
+.imgWhitinSlide{
+    margin-bottom: 5%;
+}
+
+.paragraph{
+    font-size: 1rem;
+}
+
+.slideContent1{
+    margin-bottom: 3rem;
+}
+
+.slideContent2{
+    margin-bottom: 2rem;
+}
+.navTop{
+    display: flex;
+    justify-content: center;
+}
+
+.carousel-item{
+    position: relative;
+}
+
+.navbar-custom {
+    background-color: #ff6600;
+}
+
+.center-image {
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -2;
+}
+
+.accordionDesign{
+    width: 80%;
+    -webkit-text-fill-color: #252F68;
+    margin: 5% 0 5% 0;
+}
+
+.accordionDesign2{
+    width: 80%;
+    -webkit-text-fill-color: #252F68;
+    margin: 5% 0 0 0;
+}
+
+.imagesLogo{
+    margin-left: 1%;
+}
