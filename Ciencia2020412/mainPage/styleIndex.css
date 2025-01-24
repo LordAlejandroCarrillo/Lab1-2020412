@@ -1,0 +1,31 @@
+.bodyBackground{
+    background-image: url('../source/images/MainBackground.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: "Merriweather", serif;
+    -webkit-text-fill-color: #ffffff;
+}
+
+.slideImage{
+    opacity: 0.2;
+}
+
+.slideCarrousel{
+    width: 65%;
+}
+
+.imgWhitinSlide{
+    margin-bottom: 5%;
+}
+
+.paragraph{
+    font-size: 1rem;
+}
+
+.slideContent1{
+    margin-bottom: 3rem;
+}
+
+.slideContent2{
+    margin-bottom: 2rem;
+}
